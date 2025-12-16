@@ -1,4 +1,4 @@
-# CHATBOT
+# Whatsapp CHATBOT
 
 ## Table of Contents
 
