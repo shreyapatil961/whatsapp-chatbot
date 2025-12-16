@@ -50,7 +50,7 @@
 
 ## Usage
 
-- Visit the link  [ChatBot](https://varshithvhegde.github.io/chatbot)
+- Visit the link  [ChatBot](https://whatsapp-chatbot-shreya.vercel.app/)
 ```
 https://varshithvhegde.github.io/chatbot
 ```
